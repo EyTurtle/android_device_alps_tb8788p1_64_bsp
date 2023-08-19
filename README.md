@@ -22,3 +22,10 @@ Storage | 64 GB
 Battery | Li-Po 6000 mAh battery
 Display | 1200 x 1920 pixels, 10.1 inches (~240 ppi pixel density)
 Rear Camera  | Single 13 MP (27mm, f/1.8, 52mm, f/2.6), phase detection autofocus, single-LED flash
+
+## Websites
+Official:
+leke.cn
+Unofficial:
+https://leke.my.canvasite.cn/
+https://docs.leke1234.com/
