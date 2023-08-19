@@ -1,5 +1,5 @@
 # Android device tree for alps Leke Pad-L06 (tb8788p1_64_bsp)
-
+Tree for building TWRP for alps Leke Pad-L06
 ```
 #
 # Copyright (C) 2023 The Android Open Source Project
